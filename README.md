@@ -1,2 +1,2 @@
-# learnReactDndByChessGame
+# learnTypeScript
 Created with CodeSandbox
